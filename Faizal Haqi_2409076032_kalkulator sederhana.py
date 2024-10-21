@@ -1,4 +1,4 @@
-# Kalkulator sederhana
+# Kalkulator sederhana Faizal Haqi
 while True:
     a = int(input("Masukkan Nilai 1: "))
     b = int(input("Masukkan Nilai 2: "))
